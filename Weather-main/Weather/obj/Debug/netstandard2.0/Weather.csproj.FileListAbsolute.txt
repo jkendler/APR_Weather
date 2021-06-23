@@ -1,0 +1,68 @@
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\bin\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csprojAssemblyReference.cache
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.pdb
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\bin\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csprojAssemblyReference.cache
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\David Hofmann\Desktop\Weather-App\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.pdb
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\bin\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main (2)\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.pdb
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\matze\OneDrive\Desktop\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.pdb
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.deps.json
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.dll
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\bin\Debug\netstandard2.0\Weather.pdb
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.AssemblyReference.cache
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfoInputs.cache
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.AssemblyInfo.cs
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.csproj.CoreCompileInputs.cache
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.dll
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\ref\Weather.dll
+C:\Users\E7450\Downloads\Weather-main (3)\Weather-main\Weather-main\Weather\obj\Debug\netstandard2.0\Weather.pdb
